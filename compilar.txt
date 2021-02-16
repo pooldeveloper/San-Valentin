@@ -1,0 +1,1 @@
+npx tailwindcss build src/tailwind.css -o public/styles.css  

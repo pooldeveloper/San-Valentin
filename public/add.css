@@ -1,0 +1,50 @@
+body{
+    background: url(./img/pattern1.png);
+    background-repeat: repeat;
+}
+/* US */
+.us-bg-one{
+    background: linear-gradient(rgba(0, 0, 0, .50) 0%, rgba(0,0,0,.50) 100%), url(./img/pic6.jpg);
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 328px;
+}
+.us-bg-one:hover{
+    background: #222;
+}
+.us-bg-two{
+    background: linear-gradient(rgba(0, 0, 0, .50) 0%, rgba(0,0,0,.50) 100%), url(./img/pic7.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 148px;
+}
+.us-bg-two:hover{
+    background: #222;
+}
+.us-bg-three{
+    background: linear-gradient(rgba(0, 0, 0, .50) 0%, rgba(0,0,0,.50) 100%), url(./img/pic8.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 148px;
+}
+.us-bg-three:hover{
+    background: #222;
+}
+/* POETRY */
+.poetry-bg hr{
+    display: inline-block;
+    width: 100%;
+    border-color: #ffffff;
+    margin: 4px 0px;
+}
+.poetry-bg{
+    background: url(./img/pattern2.png);
+    background-repeat: repeat;
+    width: 100%;
+    height: auto;
+}
