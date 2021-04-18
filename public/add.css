@@ -9,9 +9,12 @@ body{
     background-position: center;
     width: 100%;
     height: 328px;
+    transition: all 500ms;
 }
 .us-bg-one:hover{
+    transition: all 1s;
     background: #222;
+    transition: all 500ms;
 }
 .us-bg-two{
     background: linear-gradient(rgba(0, 0, 0, .50) 0%, rgba(0,0,0,.50) 100%), url(./img/pic7.jpg);
@@ -20,9 +23,11 @@ body{
     background-position: center;
     width: 100%;
     height: 148px;
+    transition: all 500ms;
 }
 .us-bg-two:hover{
     background: #222;
+    transition: all 500ms;
 }
 .us-bg-three{
     background: linear-gradient(rgba(0, 0, 0, .50) 0%, rgba(0,0,0,.50) 100%), url(./img/pic8.jpg);
@@ -31,9 +36,11 @@ body{
     background-position: center;
     width: 100%;
     height: 148px;
+    transition: all 500ms;
 }
 .us-bg-three:hover{
     background: #222;
+    transition: all 500ms;
 }
 /* POETRY */
 .poetry-bg hr{
